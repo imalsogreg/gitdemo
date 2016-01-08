@@ -3,10 +3,12 @@
 function s = getSpikes(sourceDevice, offset)
   readSamples(sourceDevice)
   s = readSamples - offset
-  print 
-%This is a test comment
+  %This is a test comment
 
 
+  print
+  print
+  print
   return
 
 % Making changes!!!
